@@ -1,8 +1,8 @@
 # Rupert Pople
 <p align="center">
   <img 
-    width="50"
-    height="50"
+    width="150"
+    height="150"
     src=https://avatars.githubusercontent.com/u/39376121?v=4
   >
 </p>
