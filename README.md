@@ -1,12 +1,50 @@
 # Rupert Pople
-![Rupert Pople Coder](https://avatars.githubusercontent.com/u/39376121?v=4 =100x100 )
+![Rupert Pople Coder](https://avatars.githubusercontent.com/u/39376121?v=4 =50x50 align="center" )
 
 
 Aspiring developer currently enrolling at Makers Academy.
+
 ***
+
 I am currently undergoing to my journey to become a full-stack developer.
 
+My goal is to start my coding career in a vibrant young company in London.
 
-My areas of expertise
+My areas of expertise: Ruby, SEO, Affiliate Marketing,  Excel, Content Writing, Wordpress
+
+***
+
+# Projects and Code
+### <a name="projects">Projects & Code</a>
+Project | Description | Code/Demo Links | Technologies Used | Testing Technologies
+--- | --- | --- | --- | ---
+
+***
+
+# Education
 
 
+
+***
+
+### <a name="interests">Outside of Coding</a>
+
+- **Skiing**
+- **Keeping fit**
+- **Mindfulness**
+- **Being and Uncle**
+- **Podcasts**
+- **Youtube**
+
+
+***
+
+# Links
+
+### <a name="contact">Links & Contact</a>
+- Github: [rupertpople][1]
+- Codewars: https://www.codewars.com/users/electrisio
+- Blog: https://medium.com/@rupertpople
+- Personal site: 
+- Email: rupertpople@gmail.com
+- Mobile: 07790 935994
