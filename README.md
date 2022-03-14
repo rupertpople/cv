@@ -1,5 +1,11 @@
 # Rupert Pople
-![Rupert Pople Coder](https://avatars.githubusercontent.com/u/39376121?v=4 =50x50 align="center" )
+<p align="center">
+  <img 
+    width="50"
+    height="50"
+    src=https://avatars.githubusercontent.com/u/39376121?v=4
+  >
+</p>
 
 
 Aspiring developer currently enrolling at Makers Academy.
@@ -48,3 +54,5 @@ Project | Description | Code/Demo Links | Technologies Used | Testing Technologi
 - Personal site: 
 - Email: rupertpople@gmail.com
 - Mobile: 07790 935994
+
+[1]: https://github.com/rupertpople
