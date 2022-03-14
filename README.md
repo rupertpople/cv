@@ -1,5 +1,5 @@
 # Rupert Pople
-![Rupert Pople Coder](https://avatars.githubusercontent.com/u/39376121?v=4)
+![Rupert Pople Coder](https://avatars.githubusercontent.com/u/39376121?v=4 =100x100 )
 
 
 Aspiring developer currently enrolling at Makers Academy.
