@@ -18,7 +18,7 @@ Having found what I am truely passionate about, I wish to develop and grow as a 
 # Projects and Code
 ### <a name="projects">Projects & Code</a>
 Project | Description | Technologies User | Links |
---------------------------------------------------
+---| --- | --- | --- |
 Seedle | A web app that allows users to view a list of plants and birds in their local area. | Node.js, React, Jest, Cypress | [Github]([Github](https://github.com/rupertpople/acebook-metaperverse)) | 
 Acebook- MetaPerverse| A social media web app. | MongoDB Atlas, Express, Handlebars, Node.js, Mongoose, Jest, Heroku | [Github](https://github.com/rupertpople/acebook-metaperverse)| |
 Makersbnb | A web app that allows users to list and rent properties. | Ruby, Sinatra, PostgresSQL, Activerecord, Rspec, Capybara | [Github](https://github.com/rupertpople/makersbnb)|
