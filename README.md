@@ -82,7 +82,6 @@ BSc Management - 2:1
 
 ### <a name="contact">Links & Contact</a>
 - Github: [rupertpople][1]
-- Codewars: https://www.codewars.com/users/electrisio
 - Email: rupertpople@gmail.com
 - Mobile: 07790 935994
 
