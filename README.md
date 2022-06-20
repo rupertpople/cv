@@ -1,29 +1,13 @@
 # Rupert Pople
-<p align="center">
-  <img 
-    width="150"
-    height="150"
-    src=https://avatars.githubusercontent.com/u/39376121?v=4
-  >
-</p>
 
+I am an aspiring backend software developer with a highly diverse professional background which includes running my own online business for 3 years. As I was always naturally drawn to learning software and have a highly analytical mindset, I decided that coding would be a well suited path. I have just completed [Makers Academy](https://github.com/makersacademy), an intensive coding bootcamp and loved every second of it. I am now spending my time creating trading algorithms and thoroughly enjoy working with large datasets in Python, Numpy and Pandas.
 
-Aspiring developer currently enrolling at [Makers Academy](https://github.com/makersacademy).
-
-***
-
-I am currently undergoing to my journey to become a full-stack developer with Makers Academy, a leading bootcamp in London.
-
-My goal is to start my coding career in a vibrant and growing company in London.
-
-My areas of expertise: Ruby, SEO, Affiliate Marketing, Excel, Content Writing, Wordpress
-
-***
+Having found what I am truely passionate about, I wish to develop and grow as a coder engaged in logic and data. My priority is to learn as much as I can.
 
 ### <a name="skills">My Strengths</a>
 
-- **Adaptable learner** - I have an ability to learn and develop my skills to a high standard. I created and ran a successful affiliate website for 3 years. Throughout this journey I learnt how to do SEO, going from no clue to ranking first for competitive and profitable keywords.
-- **Self idenitfy as a learner** - I understand that the journey, and not the destination, is what life is all about. My mind is curious and always waiting to be challenged.
+- **Adaptable learner** - I have an ability to learn and develop my skills to a high standard. I created and ran a successful affiliate website for 3 years, where self teaching was crucial. Throughout this journey I learnt how to do SEO, going from no knowledge to ranking first for competitive and profitable keywords.
+- **Self identify as a learner** - Knowing I can never know everything is what drives me. My mind is curious and always waiting to be challenged.
 - **Self driven & reliable** - The process of running my own business and developing the skills to assist it succeed required self discipline. I was always able to rely on myself to do what was required to go above and beyond.
 - **Calm approach** - When the coding gets tough, I can keep a level head. My mindfulness practice helps me keep a cool, balanced and forgiving head.
 - **Organized and punctual**  - I always think ahead and have a strong awareness of deadlines. Throughout my learning I always try to position myself slightly ahead of the schedule.
@@ -42,6 +26,17 @@ All my code can be found here: [rupertpople][1]
 # Education
 
 #### Makers Academy | February 2022 - June 2022 
+Makers Academy is a 16 week intensive coding bootcamp which crafts software developers to match industry standards. There is a strong emphasis on OOP, TDD and agile teamwork principles. Throughout the bootcamp you combine working in pairs and on team projects, along with your own self study. This is a list of some of the technologies and skills I learnt throughout my time:
+
+- OOP, TDD and MVC
+- Agile
+- Javascript, Ruby, Node.js, Express
+- PostgresSQL, MongoDB, MongoDB Atlas
+- ActiveRecord, Mongoose
+- RSpec, Jest, Cypress, Capybara
+- React, Handlebars, ERB
+- Github, Github Actions
+
 
 #### University of Nottingham | September 2013 - June 2016
 BSc Management - 2:1
@@ -88,8 +83,6 @@ BSc Management - 2:1
 ### <a name="contact">Links & Contact</a>
 - Github: [rupertpople][1]
 - Codewars: https://www.codewars.com/users/electrisio
-- Blog: https://medium.com/@rupertpople
-- Personal site: 
 - Email: rupertpople@gmail.com
 - Mobile: 07790 935994
 
