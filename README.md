@@ -17,11 +17,11 @@ Having found what I am truely passionate about, I wish to develop and grow as a 
 
 # Projects and Code
 ### <a name="projects">Projects & Code</a>
-Project | Description | Technologies User | Links |
----| --- | --- | --- |
-Seedle | A web app that allows users to view a list of plants and birds in their local area. | Node.js, React, Jest, Cypress | [Github](https://github.com/rupertpople/seedle)| 
-Acebook- MetaPerverse| A social media web app. | MongoDB Atlas, Express, Handlebars, Node.js, Mongoose, Jest, Heroku | [Github](https://github.com/rupertpople/acebook-metaperverse)|
-Makersbnb | A web app that allows users to list and rent properties. | Ruby, Sinatra, PostgresSQL, Activerecord, Rspec, Capybara | [Github](https://github.com/rupertpople/makersbnb)|
+Project | Time Frame| Description | Technologies Used | Links |
+---| --- | --- | --- | --- |
+Seedle | 10 days | A web app that allows users to view a list of plants and birds in their local area. | Node.js, React, Jest, Cypress | [Github](https://github.com/rupertpople/seedle)| 
+Acebook- MetaPerverse| 10 days | A social media web app. | MongoDB Atlas, Express, Handlebars, Node.js, Mongoose, Jest, Heroku | [Github](https://github.com/rupertpople/acebook-metaperverse)|
+Makersbnb | 5 days| A web app that allows users to list and rent properties. | Ruby, Sinatra, PostgresSQL, Activerecord, Rspec, Capybara | [Github](https://github.com/rupertpople/makersbnb)|
 ***
 All my code can be found here: [Rupert Poples Github][1]
 # Education
