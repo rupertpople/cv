@@ -2,7 +2,7 @@
 
 I am a backend software developer with a highly diverse professional background, including running my own online business for 3 years. As I was always naturally drawn to learning software and have a highly analytical mindset, I decided that coding would be a well suited path. I have just completed [Makers Academy](https://github.com/makersacademy), an intensive coding bootcamp and loved every second of it. I am now spending my time creating trading algorithms and thoroughly enjoy working with large datasets in Python, Numpy and Pandas.
 
-Having found what I am truely passionate about, I wish to develop and grow as a coder engaged in logic and data. My priority is to learn as much as I can.
+Having found what I am truly passionate about, I wish to develop and grow as a coder engaged in logic and data. My priority is to learn as much as I can.
 
 ### <a name="skills">Links</a>
 - [Github][1]
